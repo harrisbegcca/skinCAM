@@ -1,0 +1,1 @@
+This folder contains all source files needed for building the skinCAM project.
