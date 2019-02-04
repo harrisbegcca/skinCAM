@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\legos\\OneDrive\\Desktop\\SkinCAM\\output\\checkpoint\\CHECKPOINT.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\legos\\OneDrive\\Desktop\\SkinCAM\\output\\checkpoint\\CHECKPOINT.ckpt"
