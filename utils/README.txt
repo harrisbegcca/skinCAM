@@ -1,0 +1,1 @@
+This folder contains all sources and utilities that will be used as helper utilities for the skinCAM project.

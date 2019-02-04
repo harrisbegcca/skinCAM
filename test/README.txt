@@ -1,0 +1,1 @@
+This folder contains sources for testing the skinCAM project.

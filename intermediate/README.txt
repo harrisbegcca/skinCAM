@@ -1,0 +1,1 @@
+This folder contains only the intermediate files gerenated by the skinCAM project.
