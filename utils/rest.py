@@ -9,7 +9,7 @@ root_path = r"C:\Users\legos\OneDrive\Desktop\SkinCAM"
 # firebase_admin.initialize_app(cred)
 
 
-config = config.config_k
+config = config.config_key
 firebase = pyrebase.initialize_app(config)
 storage = firebase.storage()
 db = firebase.database()
