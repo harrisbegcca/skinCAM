@@ -1,1 +1,3 @@
 utils/config.py
+*.json
+src/fetch.py

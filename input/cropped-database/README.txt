@@ -1,1 +1,0 @@
-This folder contains all input files needed by the skinCAM project.

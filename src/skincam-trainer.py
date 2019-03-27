@@ -151,7 +151,6 @@ with tf.Session() as sess:
                 # print("Written to {}. Removing image...".format(output_tensor_file_path))
                 os.remove(test_image_path)
                 print("Crunched them numbers real nice")
-
     else:
         while 1:
             DIRECTORY = input(r"Directory: ")
